@@ -2,7 +2,7 @@ package MathBotAlgorithms.Parsing;
 
 import java.util.ArrayList;
 
-public class ParsePolynomial implements  Parser<ArrayList<Float>> {
+public class ParsePolynomial implements Parser<ArrayList<Float>> {
 
     private ArrayList<Float> result = new ArrayList<>();
 
@@ -26,7 +26,7 @@ public class ParsePolynomial implements  Parser<ArrayList<Float>> {
 
     @Override
     public ArrayList<Float> getResult() {
-       return result;
+        return result;
     }
 
 }
