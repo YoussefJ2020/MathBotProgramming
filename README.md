@@ -7,6 +7,7 @@ All method names should be written in CamelCase (ex: camelCase), Non-method vari
 
 -   Make basic functionality of the bot in Java
 -   Optimize algorithms for common math operations
+-   Remake MathBot using [JDA](https://github.com/DV8FromTheWorld/JDA)
 
 ## Functionality
 
