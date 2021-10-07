@@ -16,7 +16,6 @@ All method names should be written in CamelCase (ex: camelCase), Non-method vari
 -   Polynomial Operations (Addition, Subtraction, Factoring, Solving)
 
     **Note**: This is not by any means a complete list; more features will be added as time goes on.
+    **This bot is not complete in any sense of the word!** Please create a issue with any bugs/feature requests. 
 
-## Other Info
 
--   Click [here](https://discord.gg/qXhheFhvQ5) to join the MathBotProgramming discord server.
