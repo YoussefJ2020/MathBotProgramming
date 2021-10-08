@@ -20,4 +20,4 @@ All method names should be written in CamelCase (ex: camelCase), Non-method vari
 
 ## Development
 
-Build with `gradlew run`
+Build with `gradlew shadowJar`
