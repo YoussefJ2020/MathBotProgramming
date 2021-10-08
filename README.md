@@ -18,4 +18,6 @@ All method names should be written in CamelCase (ex: camelCase), Non-method vari
     **Note**: This is not by any means a complete list; more features will be added as time goes on.
     **This bot is not complete in any sense of the word!** Please create a issue with any bugs/feature requests. 
 
+## Development
 
+Build with `gradlew run`
